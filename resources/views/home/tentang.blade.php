@@ -25,7 +25,7 @@
         <div class="relative">
             <div class="slider flex flex-col snap-y snap-mandatory overflow-y-auto h-screen touch-pan-y scrollbar-hide">
                 <div class="slide flex-none snap-start w-full h-screen flex justify-center items-center relative">
-                    <img src="{{ asset('front/img/About atas.png') }}" alt="Your image" class="w-full h-full object-cover">
+                    <img src="{{ asset('front/About atas.png') }}" alt="Your image" class="w-full h-full object-cover">
                     
                     <div class="absolute bottom-4 left-12">
                         <span class=" text-[--putih] font-semibold text-6xl uppercase">Bentala</span>
@@ -55,7 +55,7 @@
                         </div>
                     </div>
                     <div class="h-[50%] w-full flex">
-                        <img src="{{ asset('front/img/About 3.png')}}" class="w-full h-full object-cover">
+                        <img src="{{ asset('front/About 3.png')}}" class="w-full h-full object-cover">
                     </div>                    
                 </div>                                             
 
@@ -63,7 +63,7 @@
                     <div class="flex flex-nowrap h-1/2 w-full">
                         <div class="flex flex-nowrap w-full h-full">
                             <div class="w-1/2">
-                                <img src="{{ asset('front/img/About 2.png')}}" class="w-full h-full object-cover" alt="Image Description">
+                                <img src="{{ asset('front/About 2.png')}}" class="w-full h-full object-cover" alt="Image Description">
                             </div>
                             
                             <div class="w-1/2 p-16 flex flex-col justify-center items-start text-[--hitam]">
@@ -89,7 +89,7 @@
                                 </ul>
                             </div>
                             <div class="w-1/2">
-                                <img src="{{ asset('front/img/About 4.png')}}" class="w-full h-full object-contain" alt="Image Description">
+                                <img src="{{ asset('front/About 4.png')}}" class="w-full h-full object-contain" alt="Image Description">
                             </div>
                         </div>     
                     </div>
@@ -106,7 +106,7 @@
                 
                     <div class="w-full h-[60%] flex justify-center items-center">
                         <video class="w-full h-full object-cover" autoplay loop muted>
-                            <source src="front/img/About vidio.mp4" type="video/mp4">
+                            <source src="front/About vidio.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>                
